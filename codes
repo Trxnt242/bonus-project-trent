@@ -23,4 +23,10 @@ curl -s "$URL" | jq -r '
 
 
   weather.sh
-  
+
+forecast_2026049_150341.txt
+forecast_2026049_150356.txt
+forecast_2026049_150401.txt
+forecast_2026049_150414.txt
+forecast_2026049_150452.txt
+
